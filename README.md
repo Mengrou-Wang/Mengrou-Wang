@@ -7,7 +7,7 @@ My skills and typical day:
 - present actionable insights, recommendations and policy reviews to the executive members.
 - write recommendation letters and briefing notes which are used by the executives to negotiate with industry stakeholders.
 
-The three samples below use publicly available data
+The three samples below use publicly available data to showcase my technical skills:
 
 [Sample 1: Build random forest regression model in Python to provide business recommendations for a car dealer](https://github.com/Mengrou-Wang/Random-forest-regression-in-Python/blob/main/RFR%20in%20Python.ipynb)
 
