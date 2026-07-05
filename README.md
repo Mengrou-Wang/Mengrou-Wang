@@ -7,7 +7,7 @@ My skills and typical day:
 - present actionable insights, recommendations and policy reviews to the executive members.
 - write recommendation letters and briefing notes which are used by the executives to negotiate with industry stakeholders.
 
-The three samples below use publicly available data to showcase my technical skills:
+The samples below use publicly available data to showcase my technical skills and executive reporting skills:
 
 [Sample 1: Data processing and visualization in R to diversify partners for Canada's energy sector](https://github.com/Mengrou-Wang/Data-Processing-Visualization-in-R/blob/main/Data%20Processing%20%26%20Viz%20in%20R.R)
 
