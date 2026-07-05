@@ -4,7 +4,7 @@ I am an economic and policy analyst with 7 years of work experience in Canada. I
 
 My skills and typical day: 
 - use Python, R, SQL, Power BI and Microsoft Excel to synthesize data information.
-- present actionable insights, recommendations and policy reviews to the executive members.
+- present actionable insights, recommendations and policy reviews to the executive members for senior decision-makings.
 - write recommendation letters and briefing notes which are used by the executives to negotiate with industry stakeholders.
 
 The samples below use publicly available data to showcase my technical skills and executive reporting skills:
