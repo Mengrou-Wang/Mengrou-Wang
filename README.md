@@ -1,6 +1,6 @@
 # Hi, welcome to my page 
 
-I am an economic and policy analyst with 7 years of work experience in Canada. I work with data and economic research everyday to present valuable information that could advise my executive members on strategic decision-makings by orally communication and writing reports. 
+I am an economic and policy analyst with 7 years of work experience in Canada. I work with data and economic research everyday to provide advisory service to my executive members on strategic decision-makings by orally communication and writing reports. 
 
 My skills and typical day: 
 - use Python, R, SQL, Power BI and Microsoft Excel to synthesize data information.
