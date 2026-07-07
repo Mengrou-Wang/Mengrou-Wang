@@ -13,8 +13,10 @@ The samples below use publicly available data to showcase my technical skills an
 
 [Sample 2: Build random forest regression model in Python to provide business recommendations for a car dealer](https://github.com/Mengrou-Wang/Random-forest-regression-in-Python)
 
-[Sample 3: Use Python to access the SQL database to analyze revenues for a video shop](https://github.com/Mengrou-Wang/SQL-in-Python)
+[Sample 3: Build Power BI dashboard to track Canadian food service sector performance after pandemic](https://github.com/Mengrou-Wang/PowerBI)
 
-[Sample 4: Use Python to access the NoSQL MongoDB database stored in GCP to provide business recommendations for a food app](https://github.com/Mengrou-Wang/MongoDB-in-Python)
+[Sample 4: Use Python to access the SQL database to analyze revenues for a video shop](https://github.com/Mengrou-Wang/SQL-in-Python)
+
+[Sample 5: Use Python to access the NoSQL MongoDB database stored in GCP to provide business recommendations for a food app](https://github.com/Mengrou-Wang/MongoDB-in-Python)
 
 
