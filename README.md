@@ -1,11 +1,12 @@
 # Hi, welcome to my page 
 
-I am a market intelligence and policy analyst with seven years of experience in Canada, specializing in data and policy analysis, business recommendation and executive presentation. I advise senior executives on business and policy decisions by translating complex analysis into clear, actionable insights through presentations and written reports.
+I am a market intelligence and policy analyst with seven years of experience in Canada. I directly advise my senior executives on business and policy decisions by translating complex analysis into clear, actionable insights through presentations and written reports.
 
-My skills and typical day: 
+My skills and typical day:
 - Developing forecast methodology through tracking market and economic data and using Python, R, SQL, Power BI, and Microsoft Excel to collect, analyze, and synthesize complex datasets.
-- Presenting actionable insights, recommendations, and policy analyses to senior executives to support strategic decision-making.
-- Writing briefing notes, recommendation letters, and policy documents that inform executive decisions and support negotiations with industry stakeholders.
+- Presenting actionable insights, policy and business recommendations to senior executives to support strategic decision-making.
+- Writing briefing notes and recommendation letters that support executives' negotiations with industry stakeholders.
+
 
 The samples below use publicly available data to showcase my executive reporting and technical skills. Samples include business report, dashboard and scripts documentation.  
 
