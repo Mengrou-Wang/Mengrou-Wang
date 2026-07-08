@@ -1,13 +1,13 @@
 # Hi, welcome to my page 
 
-I am an economic and policy analyst with seven years of experience in Canada, specializing in data analysis and economic research. I advise senior executives on strategic and policy decisions by translating complex analysis into clear, actionable insights through presentations and written reports.
+I am a market intelligence and policy analyst with seven years of experience in Canada, specializing in data and policy analysis, business recommendation and executive presentation. I advise senior executives on business and policy decisions by translating complex analysis into clear, actionable insights through presentations and written reports.
 
 My skills and typical day: 
-- Using Python, R, SQL, Power BI, and Microsoft Excel to collect, analyze, and synthesize complex datasets.
+- Developing forecast methodology through tracking market and economic data and using Python, R, SQL, Power BI, and Microsoft Excel to collect, analyze, and synthesize complex datasets.
 - Presenting actionable insights, recommendations, and policy analyses to senior executives to support strategic decision-making.
 - Writing briefing notes, recommendation letters, and policy documents that inform executive decisions and support negotiations with industry stakeholders.
 
-The samples below use publicly available data to showcase my technical skills and executive reporting skills:
+The samples below use publicly available data to showcase my executive reporting and technical skills. Samples include business report, dashboard and scripts documentation.  
 
 [Sample 1: Data processing and visualization in R to diversify partners for Canada's energy sector](https://github.com/Mengrou-Wang/Data-Processing-Visualization-in-R)
 
